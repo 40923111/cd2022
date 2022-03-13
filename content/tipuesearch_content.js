@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': 'HW', 'text': '', 'tags': '', 'url': 'HW.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': 'HW(NX分組WINK)', 'text': '\n \n \n  接下來將 mp4 檔案從 downloads 目錄取出  \n \nloop="loop" muted=""playsinline=""autoplay="autoplay"> \n \n   \n \n \n \n \n \n \n', 'tags': '', 'url': 'HW(NX分組WINK).html'}]};
