@@ -16,7 +16,7 @@ W3:按照分配的作業製作PPT和wink
 
 W4:還未執行
 
-倉儲<a href=":https://40923111.github.io/cd2022/content">https://40923111.github.io/cd2022/content</a>
+倉儲<a href=":https://github.com/40923111/cd2022">https://github.com/40923111/cd2022</a>
 
 內容管理<a href="https://40923111.github.io/cd2022/">https://40923111.github.io/cd2022/</a>
 
