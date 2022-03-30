@@ -22,8 +22,8 @@ W4:還未執行
 
 投影片<a href="https://40923111.github.io/cd2022/reveal/">https://40923111.github.io/cd2022/reveal/</a>
 
-課程網誌<a href="https://40923111.github.io/cd2022/blog/index.html
-">https://40923111.github.io/cd2022/blog/index.html</a>
+課程網誌<a href="https://40923111.github.io/cd2022/blog/
+">https://40923111.github.io/cd2022/blog/</a>
 
 
 
