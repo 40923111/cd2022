@@ -2,8 +2,8 @@
 Title: W6作業
 Date: 2022-03-30 11:00
 Category: Misc
-Tags: cd2022
-Slug: w6_40923111
+Tags: 40923111
+Slug: w6_cd2022
 Author:方冠勛
 ---
 
