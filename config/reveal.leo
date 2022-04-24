@@ -208,27 +208,46 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+&lt;h2&gt;cd2022 40923111  方冠勛 網際簡報&lt;/h1&gt;
+  &lt;h3&gt;虎科大機械設計工程系&lt;/h2&gt;
+   
+    &lt;/p&gt;
+    &lt;a href="https://40923111.github.io/cd2022/content/index.html"&gt;個人倉儲&lt;/a&gt;
+    &lt;/or&gt;
+    &lt;a href="https://40923148.github.io/cd2022/reveal/index.html"&gt;分組簡報&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;w7&lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+    使用nx繪製機械手臂及新增blog
+    &lt;a href="https://40923111.github.io/cd2022/content/W7-1.html"&gt;檔案及流程&lt;/a&gt;
+    心得
+    從w7任務裡學到許多不同的匯入方法以及學會一些編輯程式碼，
+    也實際畫了幾樣零件來實行，
+    但後來地模擬無法成功，
+    主要是沒有例子讓我們去對應後續編排連結，
+    目前僅做到建立基本場景，後續編排個完全無方向
+
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;w8&lt;/h2&gt;
+    &lt;p&gt;
+     將在nx畫好的零件組合成機械手臂，再轉成stl丟入CoppeliaSim裡設置場景最後再進行模擬編排
+     &lt;a href="https://40923111.github.io/cd2022/content/W8.html"&gt;機械手臂NX組合過程及組合檔轉stl後匯入CoppeliaSim&lt;/a&gt;
+     心得
+從w8任務裡學到許多不同的匯入方法以及學會一些編輯程式碼，
+也實際畫了幾樣零件來實行，
+但後來地模擬無法成功，
+主要是沒有例子讓我們去對應後續編排連結，
+目前僅做到建立基本場景，後續編排個完全無方向
+   &lt;p&gt;
+     
 &lt;/section&gt;
 
 </t>
