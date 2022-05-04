@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40923111</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T10:42:40+08:00</updated><entry><title>W8</title><link href="./midterm.html.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T10:20:14+08:00</updated><author><name>40923111</name></author><id>tag:None,2020-08-13:./midterm.html.html</id><content type="html">&lt;p&gt;組合及匯入流程
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40923111</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-05-04T09:03:26+08:00</updated><entry><title>W8</title><link href="./midterm.html.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T10:20:14+08:00</updated><author><name>40923111</name></author><id>tag:None,2020-08-13:./midterm.html.html</id><content type="html">&lt;p&gt;組合及匯入流程
 https://40923111.github.io/cd2022/content/W8.html
 心得
 從w8任務裡學到許多不同的匯入方法以及學會一些編輯程式碼，
 也實際畫了幾樣零件來實行，
 但後來地模擬無法成功，
 主要是沒有例子讓我們去對應後續編排連結，
-目前僅做到建立基本場景，後續編排個完全無方向&lt;/p&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry><entry><title>2022 cd2022</title><link href="./w6_40923111.html.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T10:20:14+08:00</updated><author><name>40923111</name></author><id>tag:None,2020-08-13:./w6_40923111.html.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+目前僅做到建立基本場景，後續編排個完全無方向&lt;/p&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry><entry><title>W10</title><link href="./w10.html.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-05-04T09:03:26+08:00</updated><author><name>40923111</name></author><id>tag:None,2020-08-13:./w10.html.html</id><summary type="html">&lt;p&gt;2022 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+
+
+&lt;p&gt;w10_block_ui&lt;/p&gt;
+&lt;p&gt;https://40923111.github.io/cd2022/content/w10_block_ui.html&lt;/p&gt;
+&lt;p&gt;w10_nx_integ&lt;/p&gt;
+&lt;p&gt;https://40923111.github.io/cd2022/content/w10_nx_integ.html&lt;/p&gt;
+&lt;p&gt;w10_ssh&lt;/p&gt;
+&lt;p&gt;https://40923111.github.io/cd2022/content/w10_ssh.html&lt;/p&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry><entry><title>2022 cd2022</title><link href="./w6_40923111.html.html" rel="alternate"></link><published>2020-08-13T11:00:00+08:00</published><updated>2022-04-20T10:20:14+08:00</updated><author><name>40923111</name></author><id>tag:None,2020-08-13:./w6_40923111.html.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
